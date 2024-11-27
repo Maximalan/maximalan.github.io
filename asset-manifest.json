@@ -1,9 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5319971b.css",
-    "main.js": "/static/js/main.a7cc0a8b.js",
-    "static/media/title.png": "/static/media/title.5961c97c61a5be715b08.png",
+    "main.css": "/static/css/main.c2bf5453.css",
+    "main.js": "/static/js/main.3537e83d.js",
+    "static/media/campaign.png": "/static/media/campaign.f09f13b471a5ed2e2dd4.png",
+    "static/media/title.png": "/static/media/title.4674d0f8292f8293550e.png",
     "static/media/not-implemented.png": "/static/media/not-implemented.6e4dd23f00eef76570e5.png",
+    "static/media/cult_of_the_deep_1.png": "/static/media/cult_of_the_deep_1.b409ccc25b3fadce874d.png",
+    "static/media/millstone_mystery.png": "/static/media/millstone_mystery.0d0e978724bf0aa95d99.png",
+    "static/media/trolls_1.png": "/static/media/trolls_1.90f3ef3168a7f77abc26.png",
+    "static/media/halfling_2.png": "/static/media/halfling_2.aa9af491102918fccd9d.png",
+    "static/media/halfOrc_2.png": "/static/media/halfOrc_2.70c9be869bbf78847eed.png",
+    "static/media/elf_1.png": "/static/media/elf_1.3c415e4adb872f30841d.png",
+    "static/media/halfOrc_1.png": "/static/media/halfOrc_1.cf7fa4b64f0730c1b02d.png",
+    "static/media/human_1.png": "/static/media/human_1.9d3f8a08cea097d68269.png",
+    "static/media/halfElf_2.png": "/static/media/halfElf_2.24de139aa431732d5366.png",
+    "static/media/elf_2.png": "/static/media/elf_2.b487365606e6211f3988.png",
+    "static/media/halfElf_1.png": "/static/media/halfElf_1.903a6f9a31de5c5fa48f.png",
+    "static/media/halfling_1.png": "/static/media/halfling_1.64e3bf1b974cc3baae68.png",
+    "static/media/dwarf_1.png": "/static/media/dwarf_1.c503bf6080db0c9aca15.png",
+    "static/media/dwarf_2.png": "/static/media/dwarf_2.325f93f2c9d02a323c0d.png",
+    "static/media/human_2.png": "/static/media/human_2.0e1a803f8d735c4da762.png",
     "static/media/player_4.png": "/static/media/player_4.98676765df467966984d.png",
     "static/media/player_3.png": "/static/media/player_3.e970725dca65db94df39.png",
     "static/media/player_10.png": "/static/media/player_10.fd514f539cd296b8caac.png",
@@ -16,11 +32,11 @@
     "static/media/player_0.png": "/static/media/player_0.4a3651c609911ede6b72.png",
     "static/media/player_6.png": "/static/media/player_6.1afa8fa2ab715ade57d5.png",
     "index.html": "/index.html",
-    "main.5319971b.css.map": "/static/css/main.5319971b.css.map",
-    "main.a7cc0a8b.js.map": "/static/js/main.a7cc0a8b.js.map"
+    "main.c2bf5453.css.map": "/static/css/main.c2bf5453.css.map",
+    "main.3537e83d.js.map": "/static/js/main.3537e83d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5319971b.css",
-    "static/js/main.a7cc0a8b.js"
+    "static/css/main.c2bf5453.css",
+    "static/js/main.3537e83d.js"
   ]
 }
