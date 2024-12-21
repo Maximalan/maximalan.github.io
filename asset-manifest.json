@@ -1,13 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2bf5453.css",
-    "main.js": "/static/js/main.3537e83d.js",
-    "static/media/campaign.png": "/static/media/campaign.f09f13b471a5ed2e2dd4.png",
+    "main.css": "/static/css/main.927dfb26.css",
+    "main.js": "/static/js/main.29b71282.js",
+    "static/media/campaign.png": "/static/media/campaign.0ae804324ee4a18dce29.png",
     "static/media/title.png": "/static/media/title.4674d0f8292f8293550e.png",
+    "static/media/mm_e_shipwreck.png": "/static/media/mm_e_shipwreck.afc3a7d9ae6e260cd095.png",
+    "static/media/mm_l_road.png": "/static/media/mm_l_road.d480c4606222b9aea225.png",
+    "static/media/mm_l_entrance.png": "/static/media/mm_l_entrance.5679770273c0862c881c.png",
+    "static/media/mm_e_townville.png": "/static/media/mm_e_townville.1676d8a8fc3226700c83.png",
+    "static/media/theoldmill.png": "/static/media/theoldmill.b86706aaeacca8bbc241.png",
+    "static/media/mm_e_fire.png": "/static/media/mm_e_fire.698dc46d87465784cb37.png",
+    "static/media/mm_l_townville.png": "/static/media/mm_l_townville.4e54b180a6ee89c987d3.png",
+    "static/media/mm_e_quarry.png": "/static/media/mm_e_quarry.960c581913f776a57abc.png",
+    "static/media/mm_e_road.png": "/static/media/mm_e_road.cf271ba5815a2537fb24.png",
+    "static/media/mm_e_beach.png": "/static/media/mm_e_beach.061cc3fe7e572a537013.png",
+    "static/media/mm_e_tunnels.png": "/static/media/mm_e_tunnels.15628af37650c0bc9ee1.png",
     "static/media/not-implemented.png": "/static/media/not-implemented.6e4dd23f00eef76570e5.png",
+    "static/media/mm_l_quarry.png": "/static/media/mm_l_quarry.eb852bbab8e4cc3a8ca9.png",
+    "static/media/mm_l_bridge.png": "/static/media/mm_l_bridge.1c1ce30fcaf2e4507aae.png",
+    "static/media/mm_e_bandits.png": "/static/media/mm_e_bandits.0006aeb7ebe035ec77e8.png",
+    "static/media/mm_l_tunnel.png": "/static/media/mm_l_tunnel.2c0b3dd6ed8957095962.png",
     "static/media/cult_of_the_deep_1.png": "/static/media/cult_of_the_deep_1.b409ccc25b3fadce874d.png",
     "static/media/millstone_mystery.png": "/static/media/millstone_mystery.0d0e978724bf0aa95d99.png",
+    "static/media/mm_l_beach.png": "/static/media/mm_l_beach.31082008cdfcff16b189.png",
+    "static/media/millstone.png": "/static/media/millstone.c7ca463bca0eb320cbb6.png",
     "static/media/trolls_1.png": "/static/media/trolls_1.90f3ef3168a7f77abc26.png",
+    "static/media/imp.png": "/static/media/imp.7010d4c2da611a1b1ef2.png",
     "static/media/halfling_2.png": "/static/media/halfling_2.aa9af491102918fccd9d.png",
     "static/media/halfOrc_2.png": "/static/media/halfOrc_2.70c9be869bbf78847eed.png",
     "static/media/elf_1.png": "/static/media/elf_1.3c415e4adb872f30841d.png",
@@ -20,6 +38,7 @@
     "static/media/dwarf_1.png": "/static/media/dwarf_1.c503bf6080db0c9aca15.png",
     "static/media/dwarf_2.png": "/static/media/dwarf_2.325f93f2c9d02a323c0d.png",
     "static/media/human_2.png": "/static/media/human_2.0e1a803f8d735c4da762.png",
+    "static/media/die.png": "/static/media/die.006fb464b16c2368884a.png",
     "static/media/player_4.png": "/static/media/player_4.98676765df467966984d.png",
     "static/media/player_3.png": "/static/media/player_3.e970725dca65db94df39.png",
     "static/media/player_10.png": "/static/media/player_10.fd514f539cd296b8caac.png",
@@ -32,11 +51,11 @@
     "static/media/player_0.png": "/static/media/player_0.4a3651c609911ede6b72.png",
     "static/media/player_6.png": "/static/media/player_6.1afa8fa2ab715ade57d5.png",
     "index.html": "/index.html",
-    "main.c2bf5453.css.map": "/static/css/main.c2bf5453.css.map",
-    "main.3537e83d.js.map": "/static/js/main.3537e83d.js.map"
+    "main.927dfb26.css.map": "/static/css/main.927dfb26.css.map",
+    "main.29b71282.js.map": "/static/js/main.29b71282.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2bf5453.css",
-    "static/js/main.3537e83d.js"
+    "static/css/main.927dfb26.css",
+    "static/js/main.29b71282.js"
   ]
 }
