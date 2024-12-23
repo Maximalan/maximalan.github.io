@@ -1,8 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.927dfb26.css",
-    "main.js": "/static/js/main.29b71282.js",
+    "main.css": "/static/css/main.a861e5bd.css",
+    "main.js": "/static/js/main.5b59a471.js",
     "static/media/campaign.png": "/static/media/campaign.0ae804324ee4a18dce29.png",
+    "static/media/cd_l_sagewoodtavern.png": "/static/media/cd_l_sagewoodtavern.4775f3613dcbcab24ca8.png",
+    "static/media/cd_e_underthewell.png": "/static/media/cd_e_underthewell.f9feee6b1e0f48ffc561.png",
+    "static/media/cd_e_breweryfight.png": "/static/media/cd_e_breweryfight.64e3abb3d3e74cd872b9.png",
+    "static/media/cd_e_breweryexploration.png": "/static/media/cd_e_breweryexploration.661326c17535663b1c7d.png",
+    "static/media/cd_e_sagewoodtavern.png": "/static/media/cd_e_sagewoodtavern.b1655715dc2ca2496b02.png",
+    "static/media/cd_l_lakesidebrewery.png": "/static/media/cd_l_lakesidebrewery.0c7b83c1dde61fb344f1.png",
+    "static/media/cd_l_lakesidecliffs.png": "/static/media/cd_l_lakesidecliffs.38f0ef7278d542cc991d.png",
+    "static/media/cd_e_lakesidecliffs.png": "/static/media/cd_e_lakesidecliffs.814e190d9e33026b9850.png",
+    "static/media/cd_l_lakeside.png": "/static/media/cd_l_lakeside.d5b62d5defccbb95ed8c.png",
+    "static/media/cd_e_bythelake.png": "/static/media/cd_e_bythelake.acbab6311ed84da30246.png",
     "static/media/title.png": "/static/media/title.4674d0f8292f8293550e.png",
     "static/media/mm_e_shipwreck.png": "/static/media/mm_e_shipwreck.afc3a7d9ae6e260cd095.png",
     "static/media/mm_l_road.png": "/static/media/mm_l_road.d480c4606222b9aea225.png",
@@ -17,6 +27,7 @@
     "static/media/mm_e_tunnels.png": "/static/media/mm_e_tunnels.15628af37650c0bc9ee1.png",
     "static/media/not-implemented.png": "/static/media/not-implemented.6e4dd23f00eef76570e5.png",
     "static/media/mm_l_quarry.png": "/static/media/mm_l_quarry.eb852bbab8e4cc3a8ca9.png",
+    "static/media/cd_l_underthewell.png": "/static/media/cd_l_underthewell.98e28442096e4aaac62e.png",
     "static/media/mm_l_bridge.png": "/static/media/mm_l_bridge.1c1ce30fcaf2e4507aae.png",
     "static/media/mm_e_bandits.png": "/static/media/mm_e_bandits.0006aeb7ebe035ec77e8.png",
     "static/media/mm_l_tunnel.png": "/static/media/mm_l_tunnel.2c0b3dd6ed8957095962.png",
@@ -51,11 +62,11 @@
     "static/media/player_0.png": "/static/media/player_0.4a3651c609911ede6b72.png",
     "static/media/player_6.png": "/static/media/player_6.1afa8fa2ab715ade57d5.png",
     "index.html": "/index.html",
-    "main.927dfb26.css.map": "/static/css/main.927dfb26.css.map",
-    "main.29b71282.js.map": "/static/js/main.29b71282.js.map"
+    "main.a861e5bd.css.map": "/static/css/main.a861e5bd.css.map",
+    "main.5b59a471.js.map": "/static/js/main.5b59a471.js.map"
   },
   "entrypoints": [
-    "static/css/main.927dfb26.css",
-    "static/js/main.29b71282.js"
+    "static/css/main.a861e5bd.css",
+    "static/js/main.5b59a471.js"
   ]
 }
