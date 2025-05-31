@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9d1c7f7.css",
-    "main.js": "/static/js/main.d515293d.js",
+    "main.css": "/static/css/main.df9cab12.css",
+    "main.js": "/static/js/main.689dc661.js",
     "static/media/cd_e_sagewoodtavern4.png": "/static/media/cd_e_sagewoodtavern4.15b73aec91294164e7f6.png",
     "static/media/campaign.png": "/static/media/campaign.0ae804324ee4a18dce29.png",
     "static/media/cd_l_sagewoodtavern.png": "/static/media/cd_l_sagewoodtavern.4775f3613dcbcab24ca8.png",
@@ -95,11 +95,11 @@
     "static/media/combat_humans.png": "/static/media/combat_humans.89c356e733541dcb180a.png",
     "static/media/event_roleplay.png": "/static/media/event_roleplay.f96d28d31976009a6d50.png",
     "index.html": "/index.html",
-    "main.b9d1c7f7.css.map": "/static/css/main.b9d1c7f7.css.map",
-    "main.d515293d.js.map": "/static/js/main.d515293d.js.map"
+    "main.df9cab12.css.map": "/static/css/main.df9cab12.css.map",
+    "main.689dc661.js.map": "/static/js/main.689dc661.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9d1c7f7.css",
-    "static/js/main.d515293d.js"
+    "static/css/main.df9cab12.css",
+    "static/js/main.689dc661.js"
   ]
 }
