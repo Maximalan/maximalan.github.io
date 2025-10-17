@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.df9cab12.css",
-    "main.js": "/static/js/main.689dc661.js",
+    "main.css": "/static/css/main.91b40650.css",
+    "main.js": "/static/js/main.6b3f5ede.js",
     "static/media/cd_e_sagewoodtavern4.png": "/static/media/cd_e_sagewoodtavern4.15b73aec91294164e7f6.png",
     "static/media/campaign.png": "/static/media/campaign.0ae804324ee4a18dce29.png",
     "static/media/cd_l_sagewoodtavern.png": "/static/media/cd_l_sagewoodtavern.4775f3613dcbcab24ca8.png",
@@ -12,12 +12,15 @@
     "static/media/cd_e_breweryexploration.png": "/static/media/cd_e_breweryexploration.661326c17535663b1c7d.png",
     "static/media/cd_e_sagewoodbrewery.png": "/static/media/cd_e_sagewoodbrewery.0c7b83c1dde61fb344f1.png",
     "static/media/cd_l_lakesidebrewery.png": "/static/media/cd_l_lakesidebrewery.0c7b83c1dde61fb344f1.png",
+    "static/media/rose.png": "/static/media/rose.3cabbdd6d96badf13de4.png",
     "static/media/cd_l_lakesidecliffs.png": "/static/media/cd_l_lakesidecliffs.38f0ef7278d542cc991d.png",
     "static/media/cd_e_lakesidecliffs.png": "/static/media/cd_e_lakesidecliffs.814e190d9e33026b9850.png",
     "static/media/cd_l_lakeside.png": "/static/media/cd_l_lakeside.d5b62d5defccbb95ed8c.png",
     "static/media/cd_e_bythelake.png": "/static/media/cd_e_bythelake.acbab6311ed84da30246.png",
+    "static/media/icon_treasure.png": "/static/media/icon_treasure.8110614d84385bf6c296.png",
     "static/media/title.png": "/static/media/title.4674d0f8292f8293550e.png",
     "static/media/mm_e_dwarves.png": "/static/media/mm_e_dwarves.d018647284ec26e3fb20.png",
+    "static/media/face.png": "/static/media/face.621ee4a8e1d035bafa1a.png",
     "static/media/combat_bear.png": "/static/media/combat_bear.2f83335d479faa0bebf0.png",
     "static/media/gameroom.png": "/static/media/gameroom.4e3df83064899f2fae6a.png",
     "static/media/combat_deer.png": "/static/media/combat_deer.062749db0e7b6f72ddd8.png",
@@ -49,7 +52,6 @@
     "static/media/trolls_1.png": "/static/media/trolls_1.90f3ef3168a7f77abc26.png",
     "static/media/mm_l_witch.png": "/static/media/mm_l_witch.96f8ffed5a5f387fc3a3.png",
     "static/media/imp.png": "/static/media/imp.7010d4c2da611a1b1ef2.png",
-    "static/media/combat_half_orcs.png": "/static/media/combat_half_orcs.9cf980a920a41feb200e.png",
     "static/media/mm_l_fairlight.png": "/static/media/mm_l_fairlight.efa637cfd018bf65ffd1.png",
     "static/media/mm_l_elven_town.png": "/static/media/mm_l_elven_town.d06fa2be497a4b619bb1.png",
     "static/media/mm_e_cabin2.png": "/static/media/mm_e_cabin2.8c2df121554dfb223ae1.png",
@@ -75,7 +77,8 @@
     "static/media/human_2.png": "/static/media/human_2.0e1a803f8d735c4da762.png",
     "static/media/event_challenge.png": "/static/media/event_challenge.b4711d0b921afc3ad481.png",
     "static/media/dm.png": "/static/media/dm.6eddb4c9c933accb4321.png",
-    "static/media/die.png": "/static/media/die.006fb464b16c2368884a.png",
+    "static/media/die.png": "/static/media/die.77171ca96e847f33fa8c.png",
+    "static/media/event_puzzle.png": "/static/media/event_puzzle.599aeecb673368f8dc6f.png",
     "static/media/combat_dragons.png": "/static/media/combat_dragons.a2989854bcbd0162365d.png",
     "static/media/player_4.png": "/static/media/player_4.98676765df467966984d.png",
     "static/media/player_3.png": "/static/media/player_3.e970725dca65db94df39.png",
@@ -91,15 +94,17 @@
     "static/media/player_0.png": "/static/media/player_0.4a3651c609911ede6b72.png",
     "static/media/player_6.png": "/static/media/player_6.1afa8fa2ab715ade57d5.png",
     "static/media/event_exposition.png": "/static/media/event_exposition.52e794b142c4be513074.png",
+    "static/media/event_dungeon.png": "/static/media/event_dungeon.c10a14181d46af20cb49.png",
     "static/media/combat_bandits.png": "/static/media/combat_bandits.89c356e733541dcb180a.png",
     "static/media/combat_humans.png": "/static/media/combat_humans.89c356e733541dcb180a.png",
+    "static/media/d20.png": "/static/media/d20.23c491a94724e311cb9d.png",
     "static/media/event_roleplay.png": "/static/media/event_roleplay.f96d28d31976009a6d50.png",
     "index.html": "/index.html",
-    "main.df9cab12.css.map": "/static/css/main.df9cab12.css.map",
-    "main.689dc661.js.map": "/static/js/main.689dc661.js.map"
+    "main.91b40650.css.map": "/static/css/main.91b40650.css.map",
+    "main.6b3f5ede.js.map": "/static/js/main.6b3f5ede.js.map"
   },
   "entrypoints": [
-    "static/css/main.df9cab12.css",
-    "static/js/main.689dc661.js"
+    "static/css/main.91b40650.css",
+    "static/js/main.6b3f5ede.js"
   ]
 }
